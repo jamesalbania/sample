@@ -1,0 +1,13 @@
+C:\Users\QCU\source\repos\operation\operation\bin\Debug\netcoreapp3.1\operation.exe
+C:\Users\QCU\source\repos\operation\operation\bin\Debug\netcoreapp3.1\operation.deps.json
+C:\Users\QCU\source\repos\operation\operation\bin\Debug\netcoreapp3.1\operation.runtimeconfig.json
+C:\Users\QCU\source\repos\operation\operation\bin\Debug\netcoreapp3.1\operation.runtimeconfig.dev.json
+C:\Users\QCU\source\repos\operation\operation\bin\Debug\netcoreapp3.1\operation.dll
+C:\Users\QCU\source\repos\operation\operation\bin\Debug\netcoreapp3.1\operation.pdb
+C:\Users\QCU\source\repos\operation\operation\obj\Debug\netcoreapp3.1\operation.csprojAssemblyReference.cache
+C:\Users\QCU\source\repos\operation\operation\obj\Debug\netcoreapp3.1\operation.AssemblyInfoInputs.cache
+C:\Users\QCU\source\repos\operation\operation\obj\Debug\netcoreapp3.1\operation.AssemblyInfo.cs
+C:\Users\QCU\source\repos\operation\operation\obj\Debug\netcoreapp3.1\operation.csproj.CoreCompileInputs.cache
+C:\Users\QCU\source\repos\operation\operation\obj\Debug\netcoreapp3.1\operation.dll
+C:\Users\QCU\source\repos\operation\operation\obj\Debug\netcoreapp3.1\operation.pdb
+C:\Users\QCU\source\repos\operation\operation\obj\Debug\netcoreapp3.1\operation.genruntimeconfig.cache
